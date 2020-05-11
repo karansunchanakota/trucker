@@ -1,1 +1,3 @@
-This is readme for the trucker project.
+This is readme file for the trucker project.
+
+This is Fleet management IoT api.
